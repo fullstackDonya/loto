@@ -1,1 +1,1 @@
-# loto
+# loto predict
